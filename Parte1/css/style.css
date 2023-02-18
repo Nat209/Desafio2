@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(183, 135, 227);
+}
+
+.container{
+    width: 20%;
+    margin: 10% auto;
+}
+.container>.img{
+    width: 100%;
+    margin: 10% auto;
+}
+
+.bordeOculto{
+    border: none;
+}
+
+.bordeVisible{
+    border: 2px solid red;
+}
